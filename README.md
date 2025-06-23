@@ -1,5 +1,6 @@
 # Resume-Project
 # 💼 My Resume Website
+link:https://akashnaik7396.github.io/Resume-Project/
 
 This is a simple and clean personal resume built using only HTML.  
 It showcases my education, skills, projects, and contact information.
